@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a friend, to a person of quality in answer to A letter from a person of quality, to his friend; about abhorrers and addressers.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87924</idno><idno type="EEBO-CITATION">99895808</idno>
+  <idno type="VID">153455</idno>
+  <idno type="EEBO-PROQUEST">2240908570</idno>
+  
+            <idno type="STC">Wing L1377A</idno>
+            <idno type="STC">ESTC R203863</idno>
+            <idno type="PROQUEST">99895808</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895808e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153455)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2366:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a friend, to a person of quality in answer to A letter from a person of quality, to his friend; about abhorrers and addressers.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Tonson at the Judge's-head in Chancery-lane near Fleetstreet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Letter from a person of quality to his friend, about abhorrers and addressors.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:153455:1"/>
+            <head>A LETTER from a Friend, TO A Person of Quality: In Answer to <hi>A Letter from a Person of Quality, To his Friend;</hi> about <hi>Abhorrers</hi> and <hi>Addressers.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>FOR that's the Style I shall presume to treat the Unknown [<hi>Person of Quality</hi>] in, to whom This Letter is Address'd.</p>
+            <p>Yours of the 24th. past, in Answer to mine of <hi>Jan.</hi> 6, I have had the honour to receive: wherein you are pleas'd to Espouse the <hi>Association,</hi> and <hi>Ig<g ref="char:EOLhyphen"/>noramus Juries,</hi> as if they were <hi>your own Project,</hi> and <hi>your own Creatures;</hi> Not troubling your head about the Foolish Scruples that I begg'd your Ad<g ref="char:EOLhyphen"/>vice upon; To wit, [<hi>The fear of losing the Repu<g ref="char:EOLhyphen"/>tation of a</hi> Loyal Subject, <hi>and a</hi> Good Son of the Church;] Those Two Points being manifestly the least part of your Noble Care throughout the whole Paper.</p>
+            <p>Your Lordship Professes [<hi>Plainness and Freedom in your Reply; — without Flattery:</hi>] and you Ac<g ref="char:EOLhyphen"/>quit your self to Admiration; for the <hi>English No<g ref="char:EOLhyphen"/>bility, Gentry,</hi> and <hi>Clergy</hi> were never made so ma<g ref="char:EOLhyphen"/>ny <hi>Drunken Sotts, Brainless Coxcombes, Rascals,</hi> and <hi>Hypocrites,</hi> in such a way of <hi>Openness</hi> and <hi>Liberty,</hi> and under so little Caution of <hi>Ceremony</hi> and <hi>Re<g ref="char:EOLhyphen"/>spect,</hi> as in this <hi>Plain, Free Letter</hi> of your Lord<g ref="char:EOLhyphen"/>ship's. And all, [<hi>according to the Rule of the A<g ref="char:EOLhyphen"/>postle,</hi>] you say, [<hi>Let Every man speak Truth to his Neighbour:</hi>] which wants onely the subjoyning of Another Text [<hi>Not using your Liberty for a Cloak of Maliciousness.</hi>]</p>
+            <p>That which follows looks like a slip of your Lordship's Pen: when in saying that [<hi>your Gentle<g ref="char:EOLhyphen"/>men of Quality and Estate GENERALLY go These High-ways,</hi>] you Acknowledge the <hi>Majority</hi> of men of <hi>Value,</hi> and <hi>Condition</hi> to be <hi>Against</hi> you: And yet (under favour) in your <hi>Fourth Column,</hi> you make [<hi>The Wisest, Wealthiest, and men of Best Re<g ref="char:EOLhyphen"/>pute in the City of</hi> London] <hi>to be on the other side;</hi> For which Preference, many, <hi>More,</hi> Eminent Citi<g ref="char:EOLhyphen"/>zens than Those there in Question, will Con your Lordship little thank. And then the Expression of <hi>These High</hi> (you mean, These <hi>Arbitrary</hi>) <hi>Ways,</hi> sounds a little Harsh, in the Case of <hi>Protesting</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Downright Treason,</hi> as if it were a <hi>less Crime</hi> to <hi>Associate</hi> in a <hi>Conspiracy</hi> to <hi>Depose</hi> the King, than to <hi>joyn</hi> in a <hi>resolution</hi> to <hi>Defend</hi> him.</p>
+            <p>Your Lordship proceeds, after This, to a Dis<g ref="char:EOLhyphen"/>tribution of These <hi>men of Quality;</hi> First, [<hi>Into Secret,</hi> or <hi>Church-Papists</hi>] at which rate, without Proving, or Disproving, your Honour may make e'en as many Papists as you please. But it is to be Noted, that onely <hi>our secret Republicans</hi> have had the luck to discover <hi>These same Secret Papists.</hi>
+            </p>
+            <p>Your Second Division, my Lord, is into those that [<hi>Gape after Honours and Court-Preferments,</hi>] which is a Reproch of the same Latitude with the Other: But it is much better yet, to <hi>serve</hi> the Go<g ref="char:EOLhyphen"/>vernment upon a <hi>Prospect</hi> of <hi>Interest</hi> or <hi>Hope</hi> of <hi>Reward,</hi> (which is the very worst of the Case) than upon a <hi>Pique,</hi> for a <hi>Disgrace</hi> or <hi>Disappoint<g ref="char:EOLhyphen"/>ment,</hi> to break out into Transports of <hi>Malice</hi> and <hi>Revenge against</hi> it; Of which we have had many Instances, to which your Lordship cannot be alto<g ref="char:EOLhyphen"/>gether a Stranger.</p>
+            <p>Your Third sort, My Lord, is of [<hi>Those that Enslave themselves, for the Saving or Gaining of an Office or Commission in their Country,</hi>] which at the most comes but to This, That some would <hi>honestly maintain</hi> the Power and Interest that they have <hi>gott,</hi> while Others are at work, by <hi>Treacherous</hi> and <hi>Ʋn<g ref="char:EOLhyphen"/>lawfull</hi> means to <hi>Recover</hi> the Usurped Power that they have <hi>lost.</hi>
+            </p>
+            <p>Your Lordship is now pleased to Conclude with Those that are [<hi>Corrupted by a Vile and Sordid E<g ref="char:EOLhyphen"/>ducation under the Clergy</hi>] which relishes rather of the Soul of an <hi>Agitatour</hi> than of a <hi>Peer;</hi> for here are <hi>Two Thirds</hi> of the <hi>Three Estates struck off</hi> and <hi>blasted</hi> already, and there wants but One step more to bring all to a <hi>Level;</hi> And That Point comes on now in course.</p>
+            <p>You tell the world, my Lord, that [<hi>The</hi> Yeo<g ref="char:EOLhyphen"/>man <hi>and</hi> Plain Country-man <hi>hath kept his Senses, when the greatest part of the</hi> Nobility <hi>and</hi> Gentry <hi>have lost theirs.</hi>] The Good Gentleman at the <hi>Old-Baily,</hi> on the Night of Triumph, and The Little <hi>Querpo Levite,</hi> when they wav'd their Hats and Cry'd, <hi>Shout, Shout Boys,</hi> to the <hi>Rabble,</hi> could have done no more Themselves than this comes to: But for <hi>a Person of Quality</hi> to set up <hi>Clouted Shoes</hi> for the Oracles of <hi>Law</hi> and <hi>Government,</hi> turn the <hi>Nobility and Gentry</hi> to School in <hi>Bedlam,</hi> and <hi>Repro<g ref="char:EOLhyphen"/>bate</hi> the very <hi>Religion</hi> of the Church of <hi>England,</hi> as well as the <hi>Church-men,</hi> all in a breath; is to out<g ref="char:EOLhyphen"/>doe the <hi>worst</hi> of <hi>men,</hi> and of <hi>Times;</hi> to Introduce <hi>New Articles</hi> of <hi>Faith,</hi> and of <hi>State;</hi> and, in Effect, an <hi>Appeal</hi> from the <hi>Privy-Council</hi> to the <hi>Bear-Gar<g ref="char:EOLhyphen"/>den.</hi> What, with Submission, could a <hi>Massianello</hi> or a <hi>Wat Tyler</hi> have said more? Wherefore be pleased, my Lord, to recall your Terrible Sentence upon (the [<hi>Generality,</hi>] &amp;c. which are no less than) the <hi>Lords Spiritual and Temporal and Com<g ref="char:EOLhyphen"/>mons assembled in Parliament,</hi> and allow them to be men that go Soberly and Temperately about their business.</p>
+            <p>[<hi>Are there any so Blind</hi> (you say) <hi>as not to see how our Church-men repent their Departing from</hi> Rome, <hi>and Long to be there again?</hi>] Your Lord<g ref="char:EOLhyphen"/>ship must have better Eyes than your Neighbours to discover this; but it is a Notion Calculated for those that see nothing at all; and a kind of St. <hi>An<g ref="char:EOLhyphen"/>thony</hi>'s <hi>Fire</hi> that's enough to Infect the whole Mass of the Nation with <hi>Schismatical Scabs and Tetters.</hi>
+            </p>
+            <p>Your Lordship's Zeal, in the next place, for the <hi>Protestant Religion,</hi> must not be forgotten. [<hi>What shall we doe for our Sister that hath no Breasts?</hi>] (<hi>Whitlock</hi>'s Memor. P. 671.) Nor your <hi>Notable Remarque,</hi> that [<hi>without Ʋniversity-Learning none can Imagin how it should be preserved under a Popish Prince, that chuses Popish Bishops, and under a King that favours That Popish Choice.</hi>]</p>
+            <p>As for <hi>Ʋniversity-Learning,</hi> it may doe much, 'tis True, toward the maintaining of a <hi>Paradox;</hi> but the <hi>Sophistry</hi> of a <hi>Close Committee</hi> is able to put <hi>Cambridge</hi> and <hi>Oxford</hi> in a <hi>Bagg,</hi> and Prove <hi>the best Reformed Church</hi> upon the face of the Earth to be <hi>Flat Popery.</hi> Happy are they, my Lord, that have been brought up at the feet of these <hi>Gamaliels:</hi> But <hi>Popery</hi> must down at last, under what shape soever; and then there's no more to be done, but whatsoever your Lordship has a mind to <hi>put down,</hi> to call it <hi>Popery.</hi> And, at any rate, <hi>Delenda est Carthago.</hi>
+            </p>
+            <pb n="2" facs="tcp:153455:2"/>
+            <p>Your Lordship's following <hi>Quaere</hi> is a very Bitter one. (but under a mistaken Character) [<hi>Consider how long the Dissolute and Drunken Part of our No<g ref="char:EOLhyphen"/>bility and Gentry will hold out as Confessors for the Protestant Church of</hi> England?] Some Grains of Abatement, Good my Lord, for the weaknesses of Flesh and Blood: Or however, Cast in <hi>Treason, Sa<g ref="char:EOLhyphen"/>crilege, Perjury, Murther, Oppression</hi> into the other Scale. Set the Translation of <hi>l'Escole des Filles,</hi> against <hi>a Glass to the Best in Christendom; A Bottle Extraordinary</hi> to the <hi>Confusion</hi> of his <hi>Royal Highness,</hi> against <hi>Another</hi> to his <hi>Health;</hi> And in half a word, The <hi>Practice</hi> of all <hi>Martial</hi>'s <hi>Bawdery,</hi> against the <hi>Crime</hi> of <hi>Ʋnderstanding</hi> it. Upon this whole mat<g ref="char:EOLhyphen"/>ter, My Lord, you will need no Expositour.</p>
+            <p>Your Lordship is now pleased to Reflect upon [<hi>the Steadiness of These Worthy Gentlemen:</hi> (for MEN WORTHY I presume) He that's <hi>Steady</hi> to what's <hi>Ʋppermost,</hi> is as <hi>Steady,</hi> in <hi>One</hi> Respect, as He that stands firm to his <hi>Honour,</hi> and his <hi>Duty,</hi> is <hi>Steady</hi> in <hi>Another:</hi> And your Lordship's Letter shews you too much a <hi>Statesman,</hi> not to make <hi>This Perswasion</hi> an Article of your <hi>Creed.</hi>
+            </p>
+            <p>You do well, my Lord, to drive the Nail of <hi>Popery</hi> home to the head; and thereupon you say, That [<hi>A Popish Prince need but to order his Lords Lieu<g ref="char:EOLhyphen"/>tenants and Sheriffs to furnish Military Juries, that shall believe</hi> Irish <hi>Evidence, to Hang any man he has a mind to that was too busie in the Protestant Cause; Especially if the Lord Lieutenant take a Governour out of the Ʋniversity.</hi>] Your Lordship, under Cor<g ref="char:EOLhyphen"/>rection, has made another False step here; In dis<g ref="char:EOLhyphen"/>covering, that <hi>Your Protestants</hi> are against <hi>Our Ʋni<g ref="char:EOLhyphen"/>versities;</hi> And that your main Battery strikes upon the <hi>Chief Supporters,</hi> and <hi>Administrators</hi> of the <hi>Go<g ref="char:EOLhyphen"/>vernment;</hi> but yet setting the Contemplation of <hi>Juries,</hi> that may, <hi>Possibly, Hang at Pleasure;</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Other True Protestant Juries</hi> that do <hi>Certainly save at Pleasure;</hi> your Lordship might put into your Eye what you have gotten by This Suppositi<g ref="char:EOLhyphen"/>on, and see never the worse: For we are not now to Learn, that your <hi>Amsterdam, Queen's-Arms,</hi> and <hi>Nagg's-Head Juries,</hi> will doe Wonders.</p>
+            <p>Your Lordship perhaps would have spar'd the <hi>Irish Evidence,</hi> but for want of a Friend at your El<g ref="char:EOLhyphen"/>bow to mind you <hi>who they were that first brought them over;</hi> what instance was used for a <hi>Pardon</hi> for <hi>a man of Quality without a Name;</hi> and <hi>a Blank War<g ref="char:EOLhyphen"/>rant for an Ʋnknown Person of Ʋndoubted Credit,</hi> to Prove the <hi>Plot:</hi> And This man of Credit found, at last, upon further Information, to have had a hand in a matter of <hi>Fifty or Sixty Mur<g ref="char:EOLhyphen"/>thers.</hi>
+            </p>
+            <p>I shall say little, My Lord, to your severe Ani<g ref="char:EOLhyphen"/>madversion upon the <hi>Addressers,</hi> in the next Clause, onely I wish you had not Charg'd His Majesty with <hi>Abandoning his People in their greatest Distresses,</hi> in the same Period. [<hi>The Judge that brought up the Address from</hi> Hereford, falls next in your way. 'Tis <hi>Baron Gregory</hi> that you speak of; And I shall onely Refer your Honour to <hi>Colonel Birch</hi> for <hi>his Justifica<g ref="char:EOLhyphen"/>tion.</hi> Mr. <hi>Saunders</hi> also lies under the Lash for Acting <hi>contrary to Law;</hi> but it is not said contrary to <hi>What Law.</hi>
+            </p>
+            <p>Your Lordship speaks of [the <hi>Association, as a man of Straw, set up to Fight against; And of Addres<g ref="char:EOLhyphen"/>ses going round the Nation to Oppose it.</hi>] First: The <hi>Proof,</hi> where it was <hi>found,</hi> clears it to be no <hi>Impo<g ref="char:EOLhyphen"/>sture</hi> in the <hi>Finders</hi> of it. Secondly, The setting up of a <hi>New Scheme of Government</hi> is a Great deal more, under favour, than <hi>the setting up a man of Straw;</hi> according to your Lordship's Pleasant Al<g ref="char:EOLhyphen"/>lusion. And thirdly, as to going round with the <hi>Addresses,</hi> What can be more Reasonable than to <hi>Encounter</hi> an <hi>Oath</hi> of <hi>Conspiracy</hi> with a <hi>Band</hi> of <hi>Al<g ref="char:EOLhyphen"/>legeance?</hi> But [<hi>This is to perswade the People</hi> (I Find) <hi>that there's a Protestant Plot:</hi>] And (by your Lordship's leave) The <hi>Other</hi> is to Cast a <hi>Mist</hi> be<g ref="char:EOLhyphen"/>fore their Eyes, that they should not <hi>Discern</hi> the <hi>Rebellious Association</hi> to be a <hi>Phanatical</hi> One. There's a Scandal also upon [<hi>the Proceedings Publish'd by Authority</hi>] but nothing said either <hi>where,</hi> or <hi>what.</hi> It is urg'd farther that [<hi>neither the Judges nor the Jury could think the</hi> E. <hi>of</hi> Sh. <hi>Guilty.</hi>] <hi>The Judges</hi> speak for <hi>themselves,</hi> in their <hi>Charge:</hi> And <hi>Guilty,</hi> or <hi>Not Guilty,</hi> was not the <hi>Question</hi> before the <hi>Grand Jury.</hi> As to the said Earl's being a <hi>States<g ref="char:EOLhyphen"/>man,</hi> his Lordship has in <hi>all Times,</hi> and by <hi>all Peo<g ref="char:EOLhyphen"/>ple,</hi> been Reputed One; And I have Nothing to Oppose, either to his Lordship's <hi>Abilities</hi> or <hi>Inno<g ref="char:EOLhyphen"/>cence;</hi> but yet the Criminating of <hi>Witnesses,</hi> does not at all Evince the <hi>Integrity</hi> of the <hi>Person Accus'd;</hi> for it many times falls out, that Men of Honour could speak to the same Purposes if they would: but there are Certain <hi>Tendernesses,</hi> in the Confi<g ref="char:EOLhyphen"/>dence of <hi>Hospitality,</hi> and <hi>Conversation,</hi> that men will not depart from, but upon Terms of the <hi>Grea<g ref="char:EOLhyphen"/>test Necessity.</hi>
+            </p>
+            <p>The Calumnies of the next Paragraph, [upon Mr. <hi>Gwin's Forcing my Lord's House; and his, and</hi> Mr. <hi>Blathwait's Refusing my Lord, and his Agents, a List of the Papers they took</hi>] are Exposed over and over already, and Every Step of the procee<g ref="char:EOLhyphen"/>ding made out beyond contradiction.</p>
+            <p>A Good part of what remains, is, an <hi>Expostula<g ref="char:EOLhyphen"/>tory Invective</hi> against Mr. <hi>Saunders;</hi> And onely a Ventilation of <hi>Popular Amusements,</hi> without <hi>Citing</hi> any <hi>Authority,</hi> or <hi>laying</hi> any <hi>Foundation</hi> [<hi>shall a Grand-Jury find a Bill upon the Oath of Villains that swear Improbabilities?</hi>] Give me leave now to put it the Other way: <hi>Shall a Grand-Jury</hi> refuse <hi>to Find a Bill, upon those Circumstances, when, if That Impro<g ref="char:EOLhyphen"/>bability should prove a Truth, the King's Life is lost by't?</hi> And yet again, My Lord, It seems to be a Plausible Question, put afterward, to Mr. <hi>Saunders.</hi> [<hi>How far this Association, taking the Matter of it, and the Finding of it in my Lord's Study, for Gran<g ref="char:EOLhyphen"/>ted, can be Imputable to the Earl of</hi> Shaftsbury?] It is utterly Impossible, My Lord, to Answer This Question; because <hi>the Grand-Jury Stifled the Pre<g ref="char:EOLhyphen"/>sentment, before it could be known, whether it would Affect my Lord, or not.</hi>
+            </p>
+            <p>Your Lordship does kindly however in taking no<g ref="char:EOLhyphen"/>tice that Mr. <hi>Saunders</hi> is to be Recorded in the <hi>Paper-Office,</hi> and Lodg'd among the <hi>Heroes of the Age;</hi> as <hi>Sequestrators, Decimators, Committee-men;</hi> Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi>'s <hi>Saints; Noble Peers,</hi> and <hi>True Protestants</hi> with<g ref="char:EOLhyphen"/>out Number, that stand Registred there among the MEN WORTHY.</p>
+            <p>I am now coming, My Lord, to the Close of your Letter; where you say [<hi>If you have patience but a while; The Wicked that thus Prosper; their place shall know them no more.</hi>] I do most humbly beg your Lordship's Interpretation of this Passage, whether it be intended as a <hi>Denunciation,</hi> a <hi>Prediction,</hi> or A <hi>Friendly Caution;</hi> And whether this <hi>Great work</hi> is to be done by <hi>Fire and Brimstone,</hi> a <hi>Massacre,</hi> or a <hi>Rebellion?</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Tonson</hi> at the <hi>Judge's-head</hi> in <hi>Chancery-lane</hi> near <hi>Fleetstreet.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
